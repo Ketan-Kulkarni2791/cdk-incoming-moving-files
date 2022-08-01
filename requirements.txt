@@ -1,0 +1,10 @@
+aws_cdk.core==1.138.1
+aws_cdk.aws_iam==1.138.1
+aws_cdk.aws_kms==1.138.1
+aws_cdk.aws_lambda==1.138.1
+aws_cdk.aws_s3==1.138.1
+aws_cdk.aws_logs==1.138.1
+aws_cdk.aws_stepfunctions==1.138.1
+aws_cdk.aws_stepfunctions_tasks==1.138.1
+boto3
+virtualenv
